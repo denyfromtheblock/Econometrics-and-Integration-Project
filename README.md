@@ -1,0 +1,1 @@
+Hello guys, this will be our library for the econometrics project, you can track the files here, edited files shall be shared here, every week there will be some goals that we will need the follow you can track the goals on directionary called Goals, I will and encourage everybody to fork their edits before pushing them if you need to ask anything please do.
